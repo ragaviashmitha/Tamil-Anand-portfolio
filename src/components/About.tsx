@@ -29,7 +29,7 @@ const About = () => {
                   <div className="text-center">
                     <div className="w-[320px] h-[320px] mx-auto mb-4 rounded-full bg-primary/20 flex items-center justify-center overflow-hidden">
                       <img
-                        src="src/assets/tamil.jpg"
+                        src="src/assets/tamil.png"
                         alt="Professional Photo"
                         className="w-full h-full object-cover"
                       />
