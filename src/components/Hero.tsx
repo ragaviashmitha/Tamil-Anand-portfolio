@@ -76,7 +76,7 @@ const Hero = () => {
                   <div className="text-center">
                     <div className="w-[320px] h-[320px] mx-auto mb-4 rounded-full bg-primary/20 flex items-center justify-center overflow-hidden">
                       <img
-                        src="src/image/tamil_anand.png"
+                        src="src/assets/tamil_anand.png"
                         alt="Professional Photo"
                         className="w-full h-full object-cover"
                       />
